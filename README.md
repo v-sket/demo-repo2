@@ -1,3 +1,5 @@
 # OK
 
 something
+
+# NO
